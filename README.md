@@ -1,5 +1,7 @@
 # SimpleShooter: The 6th section of the Unreal Engine C++ Developer: Learn C++ and Make Video Games course.
 
+This repository contains only the files that I created due to the size of the original project
+
 This section of the course focused on the following subjects:
  - The difference between character and pawn classes
  - Character moving functions on keyboard and controller
